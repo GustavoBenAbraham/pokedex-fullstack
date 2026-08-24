@@ -77,8 +77,7 @@ http://localhost:5500  (ou a porta do seu Live Server)
 
 ## 📸 Preview
 
-![Preview da Pokédex](<img width="1336" height="655" alt="image" src="https://github.com/user-attachments/assets/430dd0bb-da9f-4d40-9d31-b4b3c3599820" />
-)
+![Preview da Pokédex](https://raw.githubusercontent.com/GustavoBenAbraham/pokedex-fullstack/main/image.png)
 
 ---
 
