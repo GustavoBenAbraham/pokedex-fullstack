@@ -77,7 +77,8 @@ http://localhost:5500  (ou a porta do seu Live Server)
 
 ## 📸 Preview
 
-![Preview da Pokédex](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Preview+da+Pokédex)
+![Preview da Pokédex](<img width="1336" height="655" alt="image" src="https://github.com/user-attachments/assets/430dd0bb-da9f-4d40-9d31-b4b3c3599820" />
+)
 
 ---
 
@@ -105,8 +106,6 @@ http://localhost:5500  (ou a porta do seu Live Server)
 ## 🎯 Próximos passos
 
 - [ ] Adicionar mais filtros de tipo
-- [ ] Implementar favoritos com LocalStorage
-- [ ] Adicionar animações de batalha
 - [ ] Testes unitários no backend
 - [ ] Deploy do backend em nuvem
 
