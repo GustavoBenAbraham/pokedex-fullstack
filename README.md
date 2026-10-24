@@ -1,3 +1,5 @@
+**Português** | [English](README.en.md)
+
 [README_POKEDEX.md](https://github.com/user-attachments/files/31382411/README_POKEDEX.md)
 
 # 🔴 Pokédex Full Stack
